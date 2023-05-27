@@ -1,1 +1,1 @@
-# music-webapp-mern
+# GoMusic WebApp
