@@ -20,3 +20,7 @@
         <img src="frontend/src/Img/express-logo.jpeg" alt="expressjs" style="width:80px;height:80px;">
     </a>
 </div>
+
+<div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
+  <img src="frontend/src/Img/express-logo.jpeg" alt="Image Description" style="width: 100%; height: 100%;">
+</div>
