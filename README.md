@@ -1,7 +1,7 @@
 # GoMusic WebApp
 
 <!-- https://icons8.com -->
-<div align="center">
+<div align="center" style="width:600px;height:100px;">
     <a href="https://www.mongodb.com/" >
         <img src="frontend/src/Img/mongodb-logo.png" alt="mongodb" style="width:80px;height:80px;">
     </a>
