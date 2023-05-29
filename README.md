@@ -1,9 +1,9 @@
 # GoMusic WebApp
 
 <!-- https://icons8.com -->
-![Image Description](frontend/src/Img/react-logo.png)
-
 <div align="center">
+    <img src="frontend/src/Img/react-logo.png" style="width:100px;height:100px;">
+    
   <a href="https://www.linkedin.com/in/quaan2hand" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
