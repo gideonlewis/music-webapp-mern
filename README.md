@@ -2,7 +2,7 @@
 
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/huynhngocquan6499" target="blank">
+  <a href="https://react.dev/" target="blank" height="100px">
     <img src="frontend/src/Img/react-logo.png" alt="facebook" />
   </a>
   <a href="https://www.linkedin.com/in/quaan2hand" target="blank">
